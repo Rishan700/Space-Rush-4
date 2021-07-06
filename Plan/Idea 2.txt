@@ -1,0 +1,42 @@
+Space Rush
+Game Design Elements
+1.PC And NPC 
+  The Player Ship And Enemy Ship
+2.Goal 
+  Deafete the main enemy ship
+3.Rules
+ You Have 10 HP
+ There are 3 Differnt enemy Ships:
+ i)  The loot Ship
+ ii) The Fighter Ship
+ iii)The Main Ship
+ There is Only 1 Main Ship
+ The Loot Ship has 1 HP
+ The Fighter Ship has 2 HP
+ The Main Ship has 20 Hp
+ Laser beams do 1 Damage 
+ You Win only after defeating the main ship
+ You lose when you lose all your HP
+ You Can Shoot with Up key
+ You Can move left and Right with arrow keys 
+ The Enemy Comes In a Set Position
+ You have certain  amount of lives
+ The enemy gets More and More
+ You Can shoot 1 Laser
+ The Loot ship can't shoot Laser
+ The Fighter Ship Can Shoot 1 Laser
+ The Main Ship Can Shoot 5 Laser At Once
+4.Chances vs Skill
+  The Enemy Laser May be Far then You  Vs Your timeing to press button
+5.Balence
+ You have certain amount of lives and break betwean attack
+ vs 
+ Some Enemy Can Shoot 
+6.Adaptivity
+ The enemy gets More and More also The get Stronger
+7.FeedBack
+ Sound effects
+ The live will reduce
+ Exploisen Effect
+8.Story 
+ The Enemy Planet Ships Is coming to Invade your Planet You have to stop them By Destroing the Main ship. 
